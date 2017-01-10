@@ -1,0 +1,3 @@
+include ':sample', ':pinlock'
+
+rootProject.name = 'PinLockLibrary'
